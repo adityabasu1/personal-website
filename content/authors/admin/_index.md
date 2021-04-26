@@ -14,7 +14,7 @@ organizations:
     url: http://www.iitkgp.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Deep Learning and Social Computing.
 
 # Interests to show in About widget
 interests:
@@ -64,7 +64,7 @@ email: ""
 highlight_name: false
 ---
 
-I'm Aditya Basu, a pre-final year EE-CS undergraduate at IIT Kharagpur. I'm passionate about programming and open source software and philosophy. I'm absolutely in love with Python, although I've been playing around with Go for some time and enjoy it very much.
+I'm Aditya Basu, a pre-final year EE-CS undergraduate at IIT Kharagpur. I'm passionate about programming and open source software and philosophy. I'm in love with Python, although I've been playing around with Go for some time and enjoy it very much.
 
 I'm intrigued by software developement and the idea of building cool tools and systems. For as long as I can remember, computers have excited me and I'm always looking forward to learning technologies and the endless possibilities that come with the wonderful world of computing!
 
