@@ -1,63 +1,57 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Aditya Basu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Pre-Final Year EE-CS Undergraduate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+  - name: IIT Kharagpur
+    url: http://www.iitkgp.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+  - Deep Learning
+  - Social Computing
+  - Natural Language Processing
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    - course: B.Tech in Instrumentation Engineering
+      institution: IIT Kharagpur
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:aditya.basu1@yahoo.com
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/adityabasu1
+  - icon: facebook
+    icon_pack: fab
+    link: https://www.facebook.com/aditya.basu.50/
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/aditya1basu/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
@@ -70,8 +64,8 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm Aditya Basu, a pre-final year EE-CS undergraduate at IIT Kharagpur. I'm passionate about programming and open source software and philosophy. I'm absolutely in love with Python, although I've been playing around with Go for some time and enjoy it very much.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm intrigued by software developement and the idea of building cool tools and systems. For as long as I can remember, computers have excited me and I'm always looking forward to learning technologies and the endless possibilities that come with the wonderful world of computing!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Aditya_Basu-Resume.pdf" "newtab" >}}CV{{< /staticref >}}.

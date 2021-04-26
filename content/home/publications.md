@@ -2,6 +2,7 @@
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
+active: false
 
 # This file represents a page section.
 headless: true
@@ -10,7 +11,7 @@ headless: true
 weight: 90
 
 title: Recent Publications
-subtitle: ''
+subtitle: ""
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -23,10 +24,10 @@ content:
   order: desc
   # Filter on criteria
   filters:
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
+    tag: ""
+    category: ""
+    publication_type: ""
+    author: ""
     exclude_featured: true
 design:
   # Choose a view for the listings:
